@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "2048",
+    "url": "https://play2048.co",
+    "description": "2048 is a puzzle game where you combine tiles to score points.",
+    "publisher": {
+      "name": "Gabriele Cirulli",
+      "url": "http://gabrielecirulli.com/"
+    }
+  }
+]
