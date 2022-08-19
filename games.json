@@ -7,5 +7,14 @@
       "name": "Gabriele Cirulli",
       "url": "http://gabrielecirulli.com/"
     }
+  },
+  {
+    "name": "Counter Game",
+    "url": "https://counter-game-bizz.vercel.app",
+    "description": "This is a demo how to create a game for bizz.",
+    "publisher": {
+      "name": "Bizz",
+      "url": "https://bizz-app.vercel.app/"
+    }
   }
 ]
