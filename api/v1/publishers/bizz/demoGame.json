@@ -1,0 +1,7 @@
+{
+  "name": "Demo Game",
+  "description": "A demo game for bizz (It's only a simple counter)",
+  "url": "https://counter-game-bizz.vercel.app/",
+  "categories": ["Demo"],
+  "tags": ["Demo", "Counter"]
+}

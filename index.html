@@ -1,5 +1,53 @@
-<h1>Bizz-Game-Repository: Api</h1>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bizz-Game-Repository: API</title>
+  </head>
+  <body>
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+        h1 {
+            font-size: 2em;
+            font-weight: bold;
+        }
+        h2 {
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+        h3 {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-left: 1em;
+        }
+        p {
+            font-size: 1em;
+            margin-left: 2em;
+        }
+    </style>
+    <h1>Bizz-Game-Repository: API</h1>
 
-<h2>/games.json (will be removed)</h2>
+    <h2>/lists</h2>
 
-Get a list of all games.
+    <h3>/lists/index.json</h3>
+
+    <p>Lists all available lists.</p>
+
+    <h3>/lists/[listname].json</h3>
+
+    <p>Lists all available games for a list.</p>
+
+    <h2>/publishers</h2>
+
+    <h3>/publishers/[publishername]/index.json</h3>
+
+    <p>Gives infos about a publisher</p>
+
+    <h3>/publishers/[publishername]/[gamename].json</h3>
+
+    <p>Gives infos about a game</p>
+  </body>
+</html>
