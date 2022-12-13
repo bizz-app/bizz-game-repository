@@ -1,0 +1,5 @@
+{
+  "name": "Recommended",
+  "description": "Recommended games in the bizz-game-repo",
+  "games": ["com.gabrielecirulli/2048"]
+}

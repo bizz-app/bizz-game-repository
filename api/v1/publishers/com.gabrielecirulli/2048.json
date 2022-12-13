@@ -1,0 +1,7 @@
+{
+  "name": "2048",
+  "description": "Move the tiles together and reach the 2048 tile!",
+  "url": "https://play2048.co",
+  "categories": ["Puzzle"],
+  "tags": ["Simple", "Strategy", "Puzzle", "Single-Player", "Classic"]
+}
