@@ -3,5 +3,6 @@
   "description": "This is the official game-publisher-profile by Bizz",
   "website": "https://bizz-app.vercel.app",
   "mastodon": null,
-  "verified": true
+  "verified": true,
+  "games": ["demoGame"]
 }
