@@ -3,5 +3,6 @@
   "description": "",
   "website": "http://gabrielecirulli.com/",
   "mastodon": null,
-  "verified": false
+  "verified": false,
+  "games":["2048"]
 }
